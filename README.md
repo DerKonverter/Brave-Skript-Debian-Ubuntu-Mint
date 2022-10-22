@@ -5,3 +5,5 @@ It is possible to copy the file content of: Script simply into the terminal and 
 Or you can download the file and then make an executable file out of it.
 (Terminal Command: chmod +x Script) (of course you have to be in the script's folder). 
 After that you can execute it with the command: ./Script. 
+
+The commands are from the official Brave website: https://brave.com/linux/#debian-ubuntu-mint
